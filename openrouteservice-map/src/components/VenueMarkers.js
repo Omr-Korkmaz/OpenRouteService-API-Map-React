@@ -2,7 +2,7 @@ import React from "react";
 import { Marker } from "react-leaflet";
 import { VenueLocationIconStart } from "./VenueLocationIcon";
 import { VenueLocationIconEnd } from "./VenueLocationIcon";
-import MarkerPopup from "./MarkerPopup.jsx";
+import MarkerPopup from "./MarkerPopup.js";
 
 const VenueMarkers = (props) => {
   const { venues } = props;
