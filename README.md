@@ -1,5 +1,5 @@
 
-# This is a map app built with React and opensourceroute. It allows users to enter the names of two places and displays the route between them using various travel modes (car, walk, motorcycle)
+### This is a map app built with React and opensourceroute. It allows users to enter the names of two places and displays the route between them using various travel modes (car, walk, motorcycle)
 
 
 
